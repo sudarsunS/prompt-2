@@ -19,8 +19,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 ---
 
 ```
-Register No: 212223100035
-Name: Muhammad Afshan A
+Register No: 212224063003
+Name: sudarsun.S
 ```
 
 # STEP-BY-STEP PROMPT TECHNIQUES & EXPERIMENTAL RESULTS
